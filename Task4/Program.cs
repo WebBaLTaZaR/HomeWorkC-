@@ -9,16 +9,13 @@ int thirdNumber = Convert.ToInt32(Console.ReadLine());
 
 
 Console.WriteLine("Сейчас найдём из них максимальное");
-if (firstNumber > secondNumber){
-	if(firstNumber > thirdNumber){
-		Console.WriteLine($"{firstNumber} явно больше, чем остальные");
-}}else if(secondNumber > firstNumber) {
-	if(secondNumber > thirdNumber) {
+if (firstNumber > secondNumber && firstNumber > thirdNumber){
+	Console.WriteLine($"{firstNumber} явно больше, чем остальные");
+}else if(secondNumber > firstNumber && secondNumber > thirdNumber) {
 	Console.WriteLine($"{secondNumber} явно больше, чем остальные");
-}else if(thirdNumber > firstNumber) {
-	if(thirdNumber > secondNumber){
+}else if(thirdNumber > firstNumber && thirdNumber > secondNumber) {
 	Console.WriteLine($"{thirdNumber} явно больше, чем остальные");
-}}}else{
+}else{
 	Console.WriteLine("Однозначно самого большого здесь нет");
 }
 Console.WriteLine("Если хочешь повторить, введи в консоли 'dotnet run' ");
