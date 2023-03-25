@@ -1,0 +1,15 @@
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.csproj.AssemblyReference.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.AssemblyInfoInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.AssemblyInfo.cs
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.csproj.CoreCompileInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\bin\Debug\net7.0\Task6.exe
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\bin\Debug\net7.0\Task6.deps.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\bin\Debug\net7.0\Task6.runtimeconfig.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\bin\Debug\net7.0\Task6.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\bin\Debug\net7.0\Task6.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\refint\Task6.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\Task6.genruntimeconfig.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task6\obj\Debug\net7.0\ref\Task6.dll
