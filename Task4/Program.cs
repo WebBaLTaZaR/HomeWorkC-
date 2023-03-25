@@ -15,10 +15,10 @@ if (firstNumber > secondNumber){
 }}else if(secondNumber > firstNumber) {
 	if(secondNumber > thirdNumber) {
 	Console.WriteLine($"{secondNumber} явно больше, чем остальные");
-}}else if(thirdNumber > firstNumber) {
+}else if(thirdNumber > firstNumber) {
 	if(thirdNumber > secondNumber){
 	Console.WriteLine($"{thirdNumber} явно больше, чем остальные");
-}}else{
+}}}else{
 	Console.WriteLine("Однозначно самого большого здесь нет");
 }
 Console.WriteLine("Если хочешь повторить, введи в консоли 'dotnet run' ");
