@@ -6,15 +6,18 @@ Console.Write("Введите второе число ");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите третье число ");
 int thirdNumber = Convert.ToInt32(Console.ReadLine());
-
+int max = 0;
 
 Console.WriteLine("Сейчас найдём из них максимальное");
 if (firstNumber > secondNumber && firstNumber > thirdNumber){
-	Console.WriteLine($"{firstNumber} явно больше, чем остальные");
+	max = firstNumber;
+	Console.WriteLine($"{max} явно больше, чем остальные");
 }else if(secondNumber > firstNumber && secondNumber > thirdNumber) {
-	Console.WriteLine($"{secondNumber} явно больше, чем остальные");
+	max = secondNumber;
+	Console.WriteLine($"{max} явно больше, чем остальные");
 }else if(thirdNumber > firstNumber && thirdNumber > secondNumber) {
-	Console.WriteLine($"{thirdNumber} явно больше, чем остальные");
+	max = thirdNumber;
+	Console.WriteLine($"{max} явно больше, чем остальные");
 }else{
 	Console.WriteLine("Однозначно самого большого здесь нет");
 }
