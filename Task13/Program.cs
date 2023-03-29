@@ -1,15 +1,27 @@
 ﻿Console.Clear();
 
-Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(number);
-int hundreds = (number % 1000);
-int dozens = (number % 100);
-int units = (number % 10);
-if (number < 100){
-Console.WriteLine("Третьего числа нет");
+int Prompt(string message){
+	Console.WriteLine(message);
+	string value = Console.ReadLine();
+	int result = Convert.ToInt32(value);
+	return result;
 }
-else if (number > 999 && number < 10000 ){
-	Console.WriteLine(hundreds);
+
+int GetThirdRank(int number){
+	while(number > 999){
+		number /= 10;
+	}
+	return number % 10;
 }
-// решения ещё не придумал
+
+bool ValidateNumber(int number){
+	if(number < 100){
+		Console.WriteLine("Третьей цифры нет");
+		return false;
+	}
+	return true;
+}
+int number = Prompt("Введите число > ");
+if(ValidateNumber(number)){
+	Console.WriteLine(GetThirdRank(number));
+}
