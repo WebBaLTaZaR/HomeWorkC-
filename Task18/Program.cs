@@ -8,10 +8,10 @@ while(quarter < 1 || quarter > 4){
 }
 
 if (quarter == 1)
-	Console.WriteLine("x > 0 && y > 0");
+	Console.WriteLine("x > 0 и y > 0");
 else if (quarter == 2)
-	Console.WriteLine("x < 0 && y > 0");
+	Console.WriteLine("x < 0 и y > 0");
 else if (quarter == 3)
-	Console.WriteLine("x < 0 && y < 0");
+	Console.WriteLine("x < 0 и y < 0");
 else
-	Console.WriteLine("x > 0 && y < 0");
+	Console.WriteLine("x > 0 и y < 0");
