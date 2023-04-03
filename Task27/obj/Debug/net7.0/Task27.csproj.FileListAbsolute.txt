@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task27\bin\Debug\net7.0\Task27.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task27\bin\Debug\net7.0\Task27.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task27\bin\Debug\net7.0\Task27.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task27\bin\Debug\net7.0\Task27.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\refint\Task27.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task27\obj\Debug\net7.0\ref\Task27.dll
