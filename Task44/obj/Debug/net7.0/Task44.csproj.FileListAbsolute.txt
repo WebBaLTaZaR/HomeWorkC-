@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task44\bin\Debug\net7.0\Task44.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task44\bin\Debug\net7.0\Task44.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task44\bin\Debug\net7.0\Task44.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task44\bin\Debug\net7.0\Task44.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task44\bin\Debug\net7.0\Task44.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\refint\Task44.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\Task44.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task44\obj\Debug\net7.0\ref\Task44.dll
