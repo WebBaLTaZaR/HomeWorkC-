@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task13\bin\Debug\net7.0\Task13.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task13\bin\Debug\net7.0\Task13.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task13\bin\Debug\net7.0\Task13.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task13\bin\Debug\net7.0\Task13.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\refint\Task13.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task13\obj\Debug\net7.0\ref\Task13.dll

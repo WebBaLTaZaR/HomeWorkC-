@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task26\bin\Debug\net7.0\Task26.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task26\bin\Debug\net7.0\Task26.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task26\bin\Debug\net7.0\Task26.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task26\bin\Debug\net7.0\Task26.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task26\bin\Debug\net7.0\Task26.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\refint\Task26.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\Task26.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task26\obj\Debug\net7.0\ref\Task26.dll

@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task15\bin\Debug\net7.0\Task15.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task15\bin\Debug\net7.0\Task15.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task15\bin\Debug\net7.0\Task15.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task15\bin\Debug\net7.0\Task15.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\refint\Task15.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task15\obj\Debug\net7.0\ref\Task15.dll

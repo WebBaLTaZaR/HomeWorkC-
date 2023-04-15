@@ -13,3 +13,18 @@ D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task8\obj\De
 D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.pdb
 D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
 D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task8\obj\Debug\net7.0\ref\Task8.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task8\bin\Debug\net7.0\Task8.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task8\bin\Debug\net7.0\Task8.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task8\bin\Debug\net7.0\Task8.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task8\bin\Debug\net7.0\Task8.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task8\bin\Debug\net7.0\Task8.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\refint\Task8.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task8\obj\Debug\net7.0\ref\Task8.dll

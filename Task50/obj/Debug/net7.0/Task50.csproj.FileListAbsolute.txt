@@ -1,0 +1,30 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\refint\Task50.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task50\obj\Debug\net7.0\ref\Task50.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.exe
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.deps.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\bin\Debug\net7.0\Task50.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\refint\Task50.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task50\obj\Debug\net7.0\ref\Task50.dll

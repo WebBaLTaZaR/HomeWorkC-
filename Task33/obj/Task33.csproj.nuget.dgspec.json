@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\скачка\\c#Home\\C\\HomeWorkC-\\Task33\\Task33.csproj": {}
+  },
+  "projects": {
+    "D:\\скачка\\c#Home\\C\\HomeWorkC-\\Task33\\Task33.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\скачка\\c#Home\\C\\HomeWorkC-\\Task33\\Task33.csproj",
+        "projectName": "Task33",
+        "projectPath": "D:\\скачка\\c#Home\\C\\HomeWorkC-\\Task33\\Task33.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\скачка\\c#Home\\C\\HomeWorkC-\\Task33\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
