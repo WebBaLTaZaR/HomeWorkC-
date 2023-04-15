@@ -1,0 +1,15 @@
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\bin\Debug\net7.0\Task52.exe
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\bin\Debug\net7.0\Task52.deps.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\bin\Debug\net7.0\Task52.runtimeconfig.json
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\bin\Debug\net7.0\Task52.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\bin\Debug\net7.0\Task52.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.csproj.AssemblyReference.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.AssemblyInfoInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.AssemblyInfo.cs
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.csproj.CoreCompileInputs.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\refint\Task52.dll
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.pdb
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\Task52.genruntimeconfig.cache
+D:\Users\Сергей\Desktop\Всё обучение\C#\HomeWorkC-\Task52\obj\Debug\net7.0\ref\Task52.dll
