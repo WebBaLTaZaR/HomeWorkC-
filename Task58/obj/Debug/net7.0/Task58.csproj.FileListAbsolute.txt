@@ -1,0 +1,15 @@
+D:\скачка\c#Home\C\HomeWorkC-\Task58\bin\Debug\net7.0\Task58.exe
+D:\скачка\c#Home\C\HomeWorkC-\Task58\bin\Debug\net7.0\Task58.deps.json
+D:\скачка\c#Home\C\HomeWorkC-\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+D:\скачка\c#Home\C\HomeWorkC-\Task58\bin\Debug\net7.0\Task58.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task58\bin\Debug\net7.0\Task58.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\refint\Task58.dll
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.pdb
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+D:\скачка\c#Home\C\HomeWorkC-\Task58\obj\Debug\net7.0\ref\Task58.dll
